@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nisayildirim
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning JavaScript and React.
+- 👀 I’m interested in ERP technologies.
+- 🌱 I’m currently learning ABAP.
 - 📫 You can email me: nisayildrm96@gmail.com 
 
 <!---
